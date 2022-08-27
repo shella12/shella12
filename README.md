@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Futura&color=E815CF&size=35&width=500&lines=Hello+World!+🌺+;I'm+Ayesha.;Nice+to+meet+you!+🙂+; )](https://git.io/typing-svg)
 
-<!-- <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" /> -->
-<!-- <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250" height="250"/> -->
 <img align="right" src="https://user-images.githubusercontent.com/44798044/187039837-c05d172e-4f68-4540-8cbd-4e790ad8cd0a.gif" width="35%"/> 
 
 ## About Me:
