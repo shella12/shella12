@@ -34,7 +34,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shella12)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
-## Connect with me!
+
+
+### 👤 Connect with me!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/shella12)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-arshad-a690a015a)
