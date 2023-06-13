@@ -6,12 +6,11 @@
 ## About Me:
 - 👋 I am Ayesha Arshad.
 - :pakistan: I'm from Jhelum, Pakistan. 
-- 💻 A software Engineering Graduate.
-- 👩🏽‍💻 Currently a student at ![](https://img.shields.io/badge/Microverse-blueviolet) & on my learning journey to becoming a Remote Full-Stack Developer.
-- 👩🏽‍🎓 I've attained my Bachelor of Science degree from COMSATS University of Information Technology Islamabad (Capital).
-- 🤝 Open to collaborations, contributions to open source projects, internships & new opportunities!
+- 💻 Certified Full-stack web developer and a Software Engineering Graduate.
+- 👩🏽‍🎓 I've attained my Bachelor's degree from COMSATS University of Information Technology Islamabad (Capital).
+- 🤝 Open to collaborations and contributions to open source projects, internships & new opportunities!
 - 🔍 Looking for <ins>fully remote positions</ins> as a <ins>Full-Time Full-Stack/Front-End/Back-End Developer</ins>
-- 🤸🏽‍♀️ **<ins>Brief summary of my hobbies</ins>:** reading, watching tech related YouTube videos, watching k-pop shorts, listening to Jordan Peterson, playing puzzle games & so many more!
+- 🤸🏽‍♀️ **<ins>Brief summary of my hobbies</ins>:** cooking, sewing, researching, reading and coding !
 
 ## Tech Stack & Other Skills:
 <!--Credit to all those who created or own these icons & logos | I do not own any of them-->
@@ -39,8 +38,9 @@
 ### 👤 Connect with me!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/shella12)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-arshad-a690a015a)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/-ayesha-arshad)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ayeshaarshad4567@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/AyeshaA03712974)
+[![]]
 
 ### ⭐ From [Ayesha Arshad](https://github.com/shella12).
