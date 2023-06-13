@@ -8,8 +8,7 @@
 - :pakistan: I'm from Jhelum, Pakistan. 
 - 💻 Certified Full-stack web developer and a Software Engineering Graduate.
 - 👩🏽‍🎓 I've attained my Bachelor's degree from COMSATS University of Information Technology Islamabad (Capital).
-- 🤝 Open to collaborations and contributions to open source projects, internships & new opportunities!
-- 🔍 Looking for <ins>fully remote positions</ins> as a <ins>Full-Time Full-stack/Front-end/Back-end Developer</ins>
+- 🔍 Looking for <ins>fully remote positions</ins> as a <ins>Full-Time Full-stack/Front-end/Back-end Developer</ins> & open to new opportunities!
 - 🤸🏽‍♀️ **<ins>Brief summary of my hobbies</ins>:** cooking, sewing, researching, reading and coding !
 - - 👨‍💻 All of my projects are available at [https://ayesha-arshad-portfolio-2f0349.netlify.app/](https://ayesha-arshad-portfolio-2f0349.netlify.app/)
 
