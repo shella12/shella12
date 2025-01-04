@@ -4,9 +4,8 @@
 <img align="right" src="https://user-images.githubusercontent.com/44798044/187039837-c05d172e-4f68-4540-8cbd-4e790ad8cd0a.gif" width="35%"/> 
 
 ## About Me:
-- 👋 I am Ayesha Arshad.
 - :pakistan: I'm from Jhelum, Pakistan. 
-- 💻 Certified Full-stack web developer and a Software Engineering Graduate.
+- 💻 Certified Full-stack web developer, Software Engineering Graduate with 2+ years of industrial experience.
 - 👩🏽‍🎓 I've attained my Bachelor's degree from COMSATS University of Information Technology Islamabad (Capital).
 - 🔍 Looking for <ins>a full-time positions</ins> as a <ins>Full-stack/Front-end/Back-end Developer</ins> & open to new opportunities!
 - 🤸🏽‍♀️ **<ins>Brief summary of my hobbies</ins>:** cooking, sewing, researching, reading and coding !
